@@ -1,5 +1,10 @@
 # Box Sorting System
 
+
+## Video Demonstration
+
+[Project Video - YouTube](https://www.youtube.com/watch?v=4ErFKB1loVw)
+
 This project uses TIA Portal and Factory IO to sort boxes by size (Large or Small) using sensors. The sorted boxes are directed to the appropriate conveyor line, counted, and displayed on a digital screen in the electrical panel.
 
 ![Screenshot_2](https://github.com/user-attachments/assets/b5c3f2f0-c8fc-479e-a1da-9715da23d619)
